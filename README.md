@@ -10,6 +10,7 @@ terms_and_definitions = {
                    "unit of work; that is, it must be entirely completed or aborted—no intermediate ending states are "
                    "accepted. All transactions must have the properties of atomicity, consistency, isolation, and "
                    "durability.",
+                   
 #New
 
 terms_and_definitions = {

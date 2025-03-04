@@ -14,6 +14,6 @@ terms_and_definitions = {
                    
 #New
 
-terms_and_definitions = {
+    terms_and_definitions = {
 
-  "[This is where you would replace the term]": "[This is where you would place its definition]",
+      "[This is where you would replace the term]": "[This is where you would place its definition]",

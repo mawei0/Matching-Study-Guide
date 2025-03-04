@@ -5,8 +5,7 @@ I made this code to help with studying for my Database class and decided to shar
 
 #Original
 
-terms_and_definitions = {
-
+    terms_and_definitions = {
     "Transaction": "A sequence of database requests that accesses the database. A transaction is a logical "
                        "unit of work; that is, it must be entirely completed or aborted—no intermediate ending states are "
                        "accepted. All transactions must have the properties of atomicity, consistency, isolation, and "
